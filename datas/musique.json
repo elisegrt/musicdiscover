@@ -1,0 +1,352 @@
+[
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Is This Love",
+    "ALBUM": "Kaya",
+    "ARTISTE": "Bob Marley",
+    "DUREE": "03:52"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Could You Be Loved",
+    "ALBUM": "Uprising",
+    "ARTISTE": "Bob Marley",
+    "DUREE": "03:57"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Rien ne se tait",
+    "ALBUM": "Rien ne se tait",
+    "ARTISTE": "Danakil",
+    "DUREE": "05:13"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Taya",
+    "ALBUM": "Imagine",
+    "ARTISTE": "Natty Jean",
+    "DUREE": "03:30"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Cosmopolite",
+    "ALBUM": "Perspectives",
+    "ARTISTE": "Broussaï, Dub Inc",
+    "DUREE": "04:57"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Toi qui me juges",
+    "ALBUM": "Inou Wali",
+    "ARTISTE": "Filentre",
+    "DUREE": "04:42"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Feelin' the Same",
+    "ALBUM": "Vision",
+    "ARTISTE": "Clinton Fearon",
+    "DUREE": "04:45"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Chase Dem",
+    "ALBUM": "Mind Control",
+    "ARTISTE": "Stephen Marley",
+    "DUREE": "04:15"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Here I Come",
+    "ALBUM": "Love & Hate",
+    "ARTISTE": "Dennis Brown",
+    "DUREE": "04:26"
+  },
+  {
+    "GENRE": "Reggae",
+    "TITRE": "Soldier",
+    "ALBUM": "The Constant",
+    "ARTISTE": "Resonators",
+    "DUREE": "03:50"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "Henry & Karen",
+    "ALBUM": "New Jok City",
+    "ARTISTE": "Jok'air, Linema",
+    "DUREE": "04:14"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "ONGBAK 2",
+    "ALBUM": "ARRÊTEZ-LE !",
+    "ARTISTE": "1PLIKE140",
+    "DUREE": "02:31"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "Rihanna",
+    "ALBUM": "17%",
+    "ARTISTE": "Leto",
+    "DUREE": "02:35"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "Intro",
+    "ALBUM": "M.A.N",
+    "ARTISTE": "Josman",
+    "DUREE": "02:27"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "Mr. Ocho",
+    "ALBUM": "Liens du 100",
+    "ARTISTE": "SDM",
+    "DUREE": "03:46"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "Bolide Allemand",
+    "ALBUM": "Liens du 100",
+    "ARTISTE": "SDM",
+    "DUREE": "02:56"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "Pas ralentir",
+    "ALBUM": "02 Géné",
+    "ARTISTE": "Mig",
+    "DUREE": "04:12"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "Meuda",
+    "ALBUM": "Mélo",
+    "ARTISTE": "Tiakola",
+    "DUREE": "02:32"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "Full black",
+    "ALBUM": "Beretta",
+    "ARTISTE": "Guy2bezbar",
+    "DUREE": "03:36"
+  },
+  {
+    "GENRE": "Rap",
+    "TITRE": "CELINE 3X",
+    "ALBUM": "CELINE 3X",
+    "ARTISTE": "Gazo",
+    "DUREE": "02:38"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Quand la musique est bonne",
+    "ALBUM": "Quand la musique est bonne",
+    "ARTISTE": "Jean-Jaques Goldman",
+    "DUREE": "03:52"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Savoir aimer",
+    "ALBUM": "Savoir Aimer",
+    "ARTISTE": "Florent Pagny",
+    "DUREE": "04:42"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Avant toi",
+    "ALBUM": "VersuS- CHAPITRE II",
+    "ARTISTE": "Vitaa, Slimane",
+    "DUREE": "03:43"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Toi + Moi",
+    "ALBUM": "Toi + Moi",
+    "ARTISTE": "Grégoire",
+    "DUREE": "03:02"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "A nos actes manqués",
+    "ALBUM": "Mise à jour",
+    "ARTISTE": "M. Pokora",
+    "DUREE": "03:45"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Sensualité",
+    "ALBUM": "Sans plus attendre",
+    "ARTISTE": "Axelle Red",
+    "DUREE": "03:52"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Marie",
+    "ALBUM": "A La Vie A La Mort",
+    "ARTISTE": "Johnny Hallyday",
+    "DUREE": "03:56"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Pour que tu m'aimes encore",
+    "ALBUM": "D'eux",
+    "ARTISTE": "Céline Dion",
+    "DUREE": "04:14"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Andalouse",
+    "ALBUM": "Kendji",
+    "ARTISTE": "Kendji Girac",
+    "DUREE": "02:47"
+  },
+  {
+    "GENRE": "Variété Française",
+    "TITRE": "Ma philosophie",
+    "ALBUM": "Un Jour D'été",
+    "ARTISTE": "Amel Bent",
+    "DUREE": "03:23"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "STAR WALKIN'",
+    "ALBUM": "STAR WALKIN'",
+    "ARTISTE": "Lil Nas X",
+    "DUREE": "03:30"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "LET GO",
+    "ALBUM": "LET GO",
+    "ARTISTE": "Central Cee",
+    "DUREE": "02:54"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "CUFF IT",
+    "ALBUM": "RENAISSANCE",
+    "ARTISTE": "Beyoncé",
+    "DUREE": "03:45"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "Un jour je marierai un ange",
+    "ALBUM": "Regarde-moi",
+    "ARTISTE": "Pierre de Maere",
+    "DUREE": "02:44"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "Symphony",
+    "ALBUM": "Mercury - Acts 1 & 2",
+    "ARTISTE": "Imagin Dragons",
+    "DUREE": "02:55"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "Calm Down",
+    "ALBUM": "Calm Down",
+    "ARTISTE": "Rema, Selena Gomez",
+    "DUREE": "03:59"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "TOUT VA BIEN",
+    "ALBUM": "QUARTIERS NORD",
+    "ARTISTE": "Alonzo, Ninho, Naps",
+    "DUREE": "03:12"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "FADE UP",
+    "ALBUM": "FADE UP",
+    "ARTISTE": "Zeg P, Hamza, SCH",
+    "DUREE": "03:39"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "Doja",
+    "ALBUM": "Doja",
+    "ARTISTE": "Cental Cee",
+    "DUREE": "01:37"
+  },
+  {
+    "GENRE": "Pop",
+    "TITRE": "Amber",
+    "ALBUM": "Amber",
+    "ARTISTE": "Zola",
+    "DUREE": "03:02"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Smelles Like Teen Spirit",
+    "ALBUM": "Nevermind",
+    "ARTISTE": "Nirvana",
+    "DUREE": "05:01"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Hotel California",
+    "ALBUM": "Hotel California",
+    "ARTISTE": "Eagles",
+    "DUREE": "06:31"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Livin' On A Prayer",
+    "ALBUM": "Slippery When Wet",
+    "ARTISTE": "Bon Jovi",
+    "DUREE": "04:09"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Goo Goo Muck",
+    "ALBUM": "Psychedelic Jungle",
+    "ARTISTE": "The Cramps",
+    "DUREE": "03:06"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Creep",
+    "ALBUM": "Pablo Honey",
+    "ARTISTE": "Radiohead",
+    "DUREE": "03:58"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "With Or Without You",
+    "ALBUM": "The Joshua Tree",
+    "ARTISTE": "U2",
+    "DUREE": "04:55"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Back In Black",
+    "ALBUM": "Back In Black",
+    "ARTISTE": "AC/DC",
+    "DUREE": "04:15"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Get It On",
+    "ALBUM": "Electric Warrior",
+    "ARTISTE": "T. Rex",
+    "DUREE": "04:22"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Do It Again",
+    "ALBUM": "Can't Buy A Thrill",
+    "ARTISTE": "Steely Dan",
+    "DUREE": "05:57"
+  },
+  {
+    "GENRE": "Rock",
+    "TITRE": "Alive",
+    "ALBUM": "Turn On The Bright Lights",
+    "ARTISTE": "Interpol",
+    "DUREE": "04:11"
+  }
+]
